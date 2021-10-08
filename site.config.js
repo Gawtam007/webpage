@@ -7,19 +7,19 @@ module.exports = {
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: 'Pranav Hari',
-  domain: 'pranavhari.com',
-  author: 'Pranav Hari',
+  name: 'Gawtam',
+  domain: 'gawtam.com',
+  author: 'Gawtam',
 
   // open graph metadata (optional)
-  description: 'pH blog',
-  socialImageTitle: "Pranav Hari's Homepage",
+  description: 'crg blog',
+  socialImageTitle: "Gawtam's Homepage",
   socialImageSubtitle: 'Hello World! 👋',
 
   // social usernames (optional)
-  twitter: 'pHequals7',
-  github: 'pHequals7',
-  linkedin: 'pranav-hari',
+  twitter: 'gawtam10',
+  github: 'Gawtam007',
+  linkedin: 'gawtamcr',
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
